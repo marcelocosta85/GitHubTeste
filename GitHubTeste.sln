@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTeste.Application", "GitHubTeste\GitHubTeste.Application.csproj", "{CA06FFC0-C66D-4AE0-87E9-1F8655319AB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTeste.Application", "GitHubTeste.Application\GitHubTeste.Application.csproj", "{CA06FFC0-C66D-4AE0-87E9-1F8655319AB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTeste.Domain", "GitHubTeste.Domain\GitHubTeste.Domain.csproj", "{D956CCB2-28A6-4935-ADAB-3FD7F9F5FBF5}"
 EndProject
